@@ -20,7 +20,9 @@ Para ello subiré código principalmente de prácticas personales, y tecnología
 
 El nombre del blog es un homenaje a [Hell's Kitchen](http://twitter.com/HellsKitchenFOX "Hell's Kitchen Twitter") y su versión española [Pesadilla en la Cocina](http://twitter.com/pesadillacocina "Twitter Pesadilla en la Cocina"), programas que mirados con otros ojos reflejan bastante bien la realidad del desarrollo de software actual, desde cocineros pasotas y fogones sucios, hasta malos jefes de cocina o camareros descoordinados.
 
-Con esto no quiero autoproclamarme adalid del software de calidad, ni mucho menos *El Chicote del Software* sino más bien al contrario, pero como mi objetivo es aprender he querido hacer un ejercicio de transparencia enseñando las vergüenzas en Git y en este blog construido con [jekyll](http://jekyllrb.com/). ¡Toda sugerencia o crítica constructiva será agradecida!
+Con esto no quiero autoproclamarme adalid del software de calidad, ni mucho menos *El Chicote del Software* sino más bien al contrario, pero como mi objetivo es aprender he querido hacer un ejercicio de transparencia enseñando las vergüenzas en Git y en este blog construido con [jekyll](http://jekyllrb.com/). 
+
+¡Toda sugerencia o crítica constructiva será agradecida!
 
 ### ¿Git? ¡Llegas Tarde!
 
