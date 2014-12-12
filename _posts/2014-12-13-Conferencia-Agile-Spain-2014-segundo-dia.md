@@ -58,23 +58,41 @@ Por último la recomendación del libro [ScalaCheck, the definitive guide](http:
 
 ### CQRS y los beneficios surgidos de la necesidad – [Ricardo Borillo](https://twitter.com/borillo)
 
-Ya [está disponible su presentación](https://speakerdeck.com/borillo/cqrs-y-los-beneficios-surgidos-de-la-necesidad)
+Ya [está disponible su presentación](https://speakerdeck.com/borillo/cqrs-y-los-beneficios-surgidos-de-la-necesidad).
 
 Fue una exposición muy interesante sobre [el patrón Command Query Responsibility Segregation](http://martinfowler.com/bliki/CQRS.html), sus usos, lo que aporta a la resolución de qué problemas, y sus desventajas.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Delivery at Scale – [Adrian Perreau de Pinninck](https://twitter.com/eidrien), [Manu Cupcic](https://twitter.com/cupcicm)
 
-Habitualmente la capacidad de producción disminuye conforme aumenta el número de desarrolladores, sobre todo en aplicaciones grandes con más de 40 desarrolladores y largos tiempos de compilación
+[La presentación está disponible aquí](http://pt.slideshare.net/aperreau/delivery-at-scale).
+
+Habitualmente el coste del cambio aumenta conforme aumenta el número de desarrolladores, sobre todo en aplicaciones grandes con más de 40 desarrolladores y largos tiempos de compilación.
 
 Nos presentaron su caso sobre una aplicación .Net, y pudimos ver la progresión y evolución del sistema.
 
-Muchos de los problemas que contaban me sonaban muy familiares:
+Muchos de los problemas que contaban me sonaban muy familiares, ojalá hubiera tenido esta charla en el pasado. Os dejo más o menos la progresión que mostraron:
 
 *	Builds cada vez más largas.
 *	División en ramas por funcionalidad y problemas de mezclado de código.
 *	Validación de la rama principal cada vez en más tiempo, llegando a acumularse o producir bloqueos.
-*	Implantación de [NuGet](https://www.nuget.org/) para tratar el código como componentes independientes (Para los que no lo conozcan es el equivalente a [Maven](http://maven.apache.org/), pero en .Net).
+*	Uso de [NuGet](https://www.nuget.org/) para tratar el código como componentes independientes (Para los que no lo conozcan es el equivalente a [Maven](http://maven.apache.org/), pero en .Net).
 *	Encontrarse con nuevos problemas, como funcionalidades que afectan a varias cosas, interdependencias, grupos que no actualizaban ciertos componentes.
+*	Trunk Based Development.
+*	[Branch by abstraction](http://martinfowler.com/bliki/BranchByAbstraction.html) y revisiones de códico con [Gerrit](http://en.wikipedia.org/wiki/Gerrit_%28software%29).
 
 ### Testing en equipos infectados de test – [Juan Gabardini](https://twitter.com/jgabardini)
 
@@ -82,18 +100,46 @@ En principio también iba a participar Juan Diego Vasco Moncada, pero no pudo as
 
 Por mi parte yo también tenía interés en la charla, pero sólo asistí a los primeros veinte minutos, ya que no quise perderme la charla de Pablo Domingo.
 
-En resumen, no puedo contar sobre la charla, así que os pido yo información sobre ella. Tendré que ver el vídeo si en algún momento está disponible.
+En resumen, no puedo contar nada, así que soy yo el que os pide información. Tendré que ver el vídeo si en algún momento está disponible.
 
 ### Flow Product Development – [Pablo Domingo de La Orden](https://twitter.com/pavleras)
 
+Abandoné el track de Dev Practices and Craftsmanship para ver la charla de Pablo en el track de Delighting Products, al que le debo para empezar el haber podido asistir a las conferencias.
+
+Se enfrentaba a un gran reto ya que apenas contaba con 20 minutos para la exposición, y creo que le fue muy bien, aunque yo no sea muy objetivo.
+
+Si me pedís opinión creo que 20 minutos no son suficientes para una charla, apenas puedes soltar un par de ideas, y las charlas de una hora o más corren mucho peligro de resultar pesadas si no se llevan muy bien.
+
+
+
+Estoy seguro de que a él le interesa conocer el feedback de los asistentes, así que si alguno pasa por aquí hacédselo llegar o yo mismo puedo transmitírselo.
+
 ### Vis-a-vis de [Cristóbal Colón](https://twitter.com/fageda) y [Pedro Serrahima](https://twitter.com/serrahim) moderado por [Jorge Uriarte](https://twitter.com/jorgeuriarte)
 
-Gran cierre para la CAS 2014
+Gran cierre para la CAS 2014.
 
+Cristóbal Colón es el presidente y fundador de La Fageda, os recomiendo encarecidamente que veáis [el programa de Salvados](http://www.lasexta.com/programas/salvados/mejores-momentos/fageda-cuando-negocio-etica-van-mano_2012061100307.html) donde es entrevistado.
 
+Pedro Serrahima es Director ejecutivo de [Pepephone](http://es.wikipedia.org/wiki/Pepephone). Encontraréis un montón de entrevistas e información sobre él y la cultura de Pepephone en internet.
 
-Por último quiero decir que este recopilatorio de las charlas me ha supuesto un esfuerzo considerable, así que no quiero ni pensar lo que les habrá costado preparar sólo una de ellas a cada uno de los ponentes. De verdad que detras de estos dos días ha habido mucho trabajo, muchas gracias a todos.
+Con lo dicho debería ser suficiente para que viérais la calidad de la discusión, donde se trató el significado de la empresas con Valores y con Principios.
 
-Personalemnte he tenido un beneficio inmediato escribiendo, he reforzado mucho de lo aprendido, y ya de paso espero que pueda servir como pequeño granito de arena en forma de aportación a la comunidad, y que anime a los que tenían interés o ayude a los que no han podido asistir.
+Sólo puedo remitiros al vídeo cuando salga porque es muy difícil decir algo que aporte.
+
+Os dejo también un [enlace a los increibles apuntes visuales](**************) tomados por [Javier Alonso](https://twitter.com/oyabun) y que también incluyen lo acontecido en el vis a vis.
+
+Sé que es alucinante, pero como él mismo pide en Twitter, hacedle caso al contenido y no sólo al increible envoltorio.
+
+### Hasta el año que viene
+
+Por último quiero decir que este recopilatorio de las charlas me ha supuesto un esfuerzo considerable, aunque personalemnte he tenido un beneficio inmediato escribiendo, ya que he reforzado mucho de lo aprendido.
+
+Espero ya de paso que pueda servir como pequeño granito de arena en forma de aportación a la comunidad, animando a los que tenían interés o ayudando a los que no han podido asistir.
+
+Y si a mí me ha costado escribir estos dos post, no quiero ni pensar lo que les habrá costado a los ponentes preparar sólo una de las charlas. 
+
+De verdad que detrás de estos dos días ha habido mucho trabajo, muchas gracias a todos.
+
+Gracias también a toda la organización por traernos todo este conocimiento, y a la ayuda de los voluntarios, que han conseguido coordinar y facilitar esos dos días de forma espectacular.
 
 Bueno, ¡y queda lo mejor! tras este resumen me siento libre para contaros al fin lo verdaderamente importante de la conferencia, los momentos y experiencias vividas, desde un punto de vista mucho más personal. ¡Nos vemos pronto!
