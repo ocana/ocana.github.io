@@ -133,7 +133,7 @@ Si me pedís opinión creo que 20 minutos no son suficientes para una charla, ap
 
 La charla proponía en primer lugar 'Tomar el pulso' a cómo fluía el trabajo, y para ello expuso técnicas de observación del sistema.
 
-Con el análisis de lo captado y basándonos en estudios como la [Teoría de colas](http://en.wikipedia.org/wiki/Queueing_theory), propuso introducir cambios controlados (Si metemos cambios drásticos tendremos que volver a empezar a medir) para mejorar el flujo de trabajo.
+Con el análisis de lo captado y basándonos en estudios como la [Teoría de colas](http://en.wikipedia.org/wiki/Queueing_theory), propuso introducir cambios controlados (si metemos cambios drásticos tendremos que volver a empezar a medir) para mejorar el flujo de trabajo.
 
 Era sorprendente ver con los datos que expuso, cómo una pequeña limitación en el Work in Progress resulta en que el trabajo fluya de otro modo.
 
