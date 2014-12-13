@@ -14,7 +14,7 @@ Tras [el resumen del primer día](http://ocana.github.io/articles/Conferencia-Ag
 
 Bjarte abrió el segundo día explicándonos los conceptos de gestión que expone [Beyond Budgeting](http://bbrt.org/about/what-is-beyond-budgeting/).
 
-Nos hizo reflexionar sobre las situaciones absurdas que produce manejar las cosas con presupuestos, como no poder presentar un nuevo proyecto en diciembre por el hecho de ser diciembre, o tener que gastar todo el presupuesto para que no nos asignen menos la próxima vez.
+Nos hizo reflexionar sobre las situaciones absurdas que se producen al manejar la empresa con presupuestos monetarios, como no poder presentar un nuevo proyecto en diciembre por el hecho de ser diciembre, o tener que gastar todo el presupuesto para que no nos asignen menos la próxima vez.
 
 ![Bjarte Bogsnes, Traffic lights vs roundabouts](http://www.managementexchange.com/sites/default/files/media/posts/wysiwyg/stat1.png)
 
