@@ -32,15 +32,15 @@ Aún con perfiles muy diferentes y sin ser ninguno de nosotros grandes expertos 
 
 Aún en un equipo que no había trabajado nunca antes junto, pero que estaba dispuesto a currar para sacar un trabajo adelante.
 
-Quiero destacar esto: No éramos el Equipo A. 
+Quiero destacar esto: *No éramos el Equipo A*. 
 
 Es una frase dedicada a los que creen que:
 
 *  Esto de ser ágiles es sólo una cosa que viene en los libros.
 *  Sólo es poner post-it pero acaba siendo lo mismo.
-*  Sólo funciona con gente experta
-*  o en proyectos cortos
-*  o en proyectos largos
+*  Sólo funciona con gente experta.
+*  o en proyectos cortos.
+*  o en proyectos largos.
 
 ...o cualquiera de las otras frases que he ido escuchando durante este tiempo.
 
@@ -93,7 +93,11 @@ Desde entonces he realizado los siguientes:
 
 También hice uno de economía básica y otro de microeconomía, pero más por cultura general.
 
-Como veis quise enterarme de una vez por todas de qué eran las bases de datos no relacionales, el no-sql, etc... descubrí [MongoDB](http://es.wikipedia.org/wiki/MongoDB) y me gustó mucho, así que me hice el curso en los tres lenguajes, a ver si aprendía algo de python y node.js por el camino.
+![Moocs](http://localhost:4000/images/mooc.jpg)
+
+Como veis quise enterarme de una vez por todas de qué eran las bases de datos no relacionales, el no-sql, etc... 
+
+Descubrí [MongoDB](http://es.wikipedia.org/wiki/MongoDB) y me gustó mucho, así que me hice el curso en los tres lenguajes, a ver si repasaba java y aprendía algo de python y node.js por el camino.
 
 Lo malo es que después de los tres cursos, me vine arriba, me apunté a la certificación... y suspendí. Por muy poquito pero pasó.
 
@@ -103,11 +107,11 @@ Aun así no me rendí, me compré el libro [MongoDB: The Definitive Guide](http:
 
 Veremos en el repaso del año que viene, si lo conseguí o volví a fracasar y pasé del examen. :)
 
-Actualmente estoy en un curso de [Udemy](https://www.udemy.com/) llamado [Become a SuperLearner: Learn Speed Reading & Advanced Memory](https://www.udemy.com/superlearning-speed-reading-memory-techniques/). Dedicando tiempo a aprender a aprender.
+Actualmente estoy en un curso de [Udemy](https://www.udemy.com/) para *aprender a aprender* llamado [Become a SuperLearner: Learn Speed Reading & Advanced Memory](https://www.udemy.com/superlearning-speed-reading-memory-techniques/). 
 
-## Libros
+## Los libros y la mentalidad
 
-Echando la vista atrás casi todos los libros han sido de conceptos transversales al desarrollo de software, sobre todo he trabajado la mentalidad (o el Mindset, como nos gusta decir ahora).
+Echando la vista atrás casi todos los libros han sido de conceptos transversales al desarrollo de software, sobre todo he trabajado la mentalidad (o *el Mindset*, como nos gusta decir ahora).
 
 Soy una persona de altibajos, sé que dependo mucho de la motivación, lo que me produce picos de productividad y temporadas malas.
 
@@ -115,15 +119,17 @@ Aún me queda mucho por hacer, pero en términos generales voy consiguiendo alar
 
 Así que creo que he hecho bien, porque era en lo que más necesitaba trabajar.
 
-Libros relacionados con la profesión leídos en el año:
+![Los libros y los Muggles](http://localhost:4000/images/muggles.png)
 
-* The Passionate Programmer
-* Software Craftsmanship
-* Scrum Mega Pack
-* The Clean Coder
-* The Pragmatic Programmer
-* C++ for the Impatient (He leído más de medio, y haciendo los ejercicios, pero lo acabé dejando, lo dejo como libro de consulta o por si )
-* MongoDB: The Definitive Guide (En curso la lectura exhaustiva)
+Libros relacionados con la profesión leídos en el año y sin ningún orden particular:
+
+* [The Passionate Programmer](https://pragprog.com/book/cfcar2/the-passionate-programmer) de Chad Fowler.
+* [Software Craftsmanship](http://www.amazon.com/The-Software-Craftsman-Professionalism-Pragmatism/dp/0134052501) de Sandro Mancuso.
+* [Scrum (Mega Pack)](http://www.amazon.es/Stakeholder-Development-Inspired-Schwaber-Sutherland-ebook/dp/B00988FMU8).
+* [The Clean Coder](http://www.amazon.es/The-Clean-Coder-Professional-Programmers/dp/0137081073) de Robert C. Martin.
+* [The Pragmatic Programmer](https://pragprog.com/the-pragmatic-programmer) de Andrew Hunt y David Thomas.
+* [C++ for the Impatient](http://brianoverland.com/books/) de Brian Overland. (He leído más de medio, y fui haciendo los ejercicios, pero lo acabé dejando y pensando en él como libro de consulta).
+* [MongoDB: The Definitive Guide](http://shop.oreilly.com/product/0636920028031.do) de Kristina Chodorow. (En curso la lectura exhaustiva).
 
 Tengo que mejorar mucho esto. Tendría que ver la proporción con respecto a libros de ciencia ficción y comic/manga...
 
@@ -159,27 +165,29 @@ Toca intentar hacer planes. Luego siempre acaban desmontados porque la vida suel
 
 * Libros: Tengo un montón de libros pendientes. Y muchos de ellos son de los que se consideran imprescindibles.
 
-Mi idea es terminar con MongoDB, y ponerme en serio con el de [Refactoring de Martin Fowler](http://martinfowler.com/books/refactoring.html). 
+    Mi idea es terminar con MongoDB, y ponerme en serio con el de [Refactoring de Martin Fowler](http://martinfowler.com/books/refactoring.html). 
 
-También tengo esperando en casa el [Head First Design Patterns](http://www.headfirstlabs.com/books/hfdp/).
+    También tengo esperando en casa el [Head First Design Patterns](http://www.headfirstlabs.com/books/hfdp/).
 
-Como véis no son libros ligeritos para leer antes de dormir... son de los que requieren trabajo y me llevarán mucho tiempo, por lo que no quiero planear mucho más.
+    Como véis no son libros ligeritos para leer antes de dormir... son de los que requieren trabajo y me llevarán mucho tiempo, por lo que no quiero planear mucho más.
 
-Luego improvisaré :D
+    Luego improvisaré :D
 
+![Propósitos 2015](http://localhost:4000/images/propositos.jpg)
+	
 * Cursos: Aquí mi propósito es un compromiso de contención, porque veo las webs con listas mensuales de cursos gratuitos que se inician y me quiero apuntar a todos, y acabo agobiado o dejándolo.
 
-Aun así empiezo mal, porque me acabo de apuntar al Curso online de Refactoring a patrones de Xavi Gost.
+    Aun así empiezo mal, porque me acabo de apuntar al Curso online de Refactoring a patrones de Xavi Gost.
 
-También tengo que terminar el de Speed Reading y memorización. Necesito mejorar mi capacidad de aprendizaje. Creo que merece la pena invertir ahí cuando hay tanto que aprender.
+    También tengo que terminar el de Speed Reading y memorización. Necesito mejorar mi capacidad de aprendizaje. Creo que merece la pena invertir ahí cuando hay tanto que aprender.
 
 * Inglés, inglés, inglés: Necesito mejorar listening y speaking, así que estoy buscando clases particulares, quizá por skype.
 
 * Blog: Aunque le he dado mucha caña últimamente, recuerdo que no tengo ningún compromiso de periodicidad. No voy a mantener este ritmo. 
 
-Simplemente ha sido al final de año cuando he tenido más cosas que contar.
+    Simplemente ha sido al final de año cuando he tenido más cosas que contar.
 
-Sigue siendo para mí una herramienta, una que me vendrá muy bien en épocas malas para recordarme lo que me hace felíz.
+    Sigue siendo para mí una herramienta, una que me vendrá muy bien en épocas malas para recordarme lo que me hace felíz.
 
 ## Viaje a Ítaca
 
@@ -191,82 +199,52 @@ Hoy tengo diez posts y alguna que otra visita, que hasta ha decidido dedicar uno
 
 También tengo un poco de código horrible para el que quiera ojear, y unos cuantos libros, cursos y experiencias a mis espaldas.
 
+![Viaje a Ítaca](http://localhost:4000/images/itaca.jpg)
+
 ¡Y estoy disfrutando del camino! 
 
 Por eso termino con este famoso poema de [Cavafis](http://es.wikipedia.org/wiki/Constantino_Cavafis), deseando que el camino sea largo.
 
->  Cuando emprendas tu viaje a Ítaca
->
-> pide que el camino sea largo,
->
-> lleno de aventuras, lleno de experiencias.
->
-> No temas a los lestrigones ni a los cíclopes
->
-> ni al colérico Poseidón,
->
-> seres tales jamás hallarás en tu camino,
->
-> si tu pensar es elevado, si selecta
->
-> es la emoción que toca tu espíritu y tu cuerpo.
->
-> Ni a los lestrigones ni a los cíclopes
->
-> ni al salvaje Poseidón encontrarás,
->
-> si no los llevas dentro de tu alma,
->
-> si no los yergue tu alma ante ti.
+~~~ html
+  Cuando emprendas tu viaje a Ítaca
+ pide que el camino sea largo,
+ lleno de aventuras, lleno de experiencias.
+ No temas a los lestrigones ni a los cíclopes
+ ni al colérico Poseidón,
+ seres tales jamás hallarás en tu camino,
+ si tu pensar es elevado, si selecta
+ es la emoción que toca tu espíritu y tu cuerpo.
+ Ni a los lestrigones ni a los cíclopes
+ ni al salvaje Poseidón encontrarás,
+ si no los llevas dentro de tu alma,
+ si no los yergue tu alma ante ti.
+ 
+  Pide que el camino sea largo.
+ Que muchas sean las mañanas de verano
+ en que llegues -¡con qué placer y alegría!-
+ a puertos nunca vistos antes.
+ Detente en los emporios de Fenicia
+ y hazte con hermosas mercancías,
+ nácar y coral, ámbar y ébano
+ y toda suerte de perfumes sensuales,
+ cuantos más abundantes perfumes sensuales puedas.
+ Ve a muchas ciudades egipcias
+ a aprender, a aprender de sus sabios.
+ 
+  Ten siempre a Ítaca en tu mente.
+ Llegar allí es tu destino.
+ Mas no apresures nunca el viaje.
+ Mejor que dure muchos años
+ y atracar, viejo ya, en la isla,
+ enriquecido de cuanto ganaste en el camino
+ sin aguantar a que Ítaca te enriquezca.
+ 
+  Ítaca te brindó tan hermoso viaje.
+ Sin ella no habrías emprendido el camino.
+ Pero no tiene ya nada que darte.
 
->  Pide que el camino sea largo.
->
-> Que muchas sean las mañanas de verano
->
-> en que llegues -¡con qué placer y alegría!-
->
-> a puertos nunca vistos antes.
->
-> Detente en los emporios de Fenicia
->
-> y hazte con hermosas mercancías,
->
-> nácar y coral, ámbar y ébano
->
-> y toda suerte de perfumes sensuales,
->
-> cuantos más abundantes perfumes sensuales puedas.
->
-> Ve a muchas ciudades egipcias
->
-> a aprender, a aprender de sus sabios.
-
->  Ten siempre a Ítaca en tu mente.
->
-> Llegar allí es tu destino.
->
-> Mas no apresures nunca el viaje.
->
-> Mejor que dure muchos años
->
-> y atracar, viejo ya, en la isla,
->
-> enriquecido de cuanto ganaste en el camino
->
-> sin aguantar a que Ítaca te enriquezca.
-
->  Ítaca te brindó tan hermoso viaje.
->
-> Sin ella no habrías emprendido el camino.
->
-> Pero no tiene ya nada que darte.
-
-
->  Aunque la halles pobre, Ítaca no te ha engañado.
->
-> Así, sabio como te has vuelto, con tanta experiencia,
->
-> entenderás ya qué significan las Ítacas.
->
-> - C. P. Cavafis
-
+ Aunque la halles pobre, Ítaca no te ha engañado.
+ Así, sabio como te has vuelto, con tanta experiencia,
+ entenderás ya qué significan las Ítacas.
+ - C. P. Cavafis
+~~~
