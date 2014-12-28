@@ -24,25 +24,62 @@ Me hice consciente de la [Ley de Parkinson](http://es.wikipedia.org/wiki/Ley_de_
 
 En definitiva, me ha costado mucho poner a girar la rueda, pero tenía que hacerlo.
 
-## El mejor proyecto de mi vida
+## El mejor proyecto en el que he trabajado
 
 Este año he tenido la oportunidad increíble de participar en un proyecto de esos en los que cualquier programador querría estar.
 
-Aun con perfiles muy diferentes y sin grandes expertos, y en un equipo que no había trabajado nunca antes junto, conseguimos imprimir los valores ágiles en el núcleo.
+Aún con perfiles muy diferentes y sin ser ninguno de nosotros grandes expertos (lo siento si estáis leyendo esto :P ).
 
-En la parte de desarrollo seis programadores, trabajando en pair programming, 
+Aún en un equipo que no había trabajado nunca antes junto, pero que estaba dispuesto a currar para sacar un trabajo adelante.
 
-Lo mejor es que se puede decir que el proyecto salió muy bien.
+Quiero destacar esto: No éramos el Equipo A. 
 
-El único problema es que el proyecto terminara.
+Es una frase dedicada a los que creen que:
 
-Y es al ponerlo en perspectiva cuando realmente ves lo que sucedió allí. Ahora es inevitable compararlo.
+*  Esto de ser ágiles es sólo una cosa que viene en los libros.
+*  Sólo es poner post-it pero acaba siendo lo mismo.
+*  Sólo funciona con gente experta
+*  o en proyectos cortos
+*  o en proyectos largos
 
-Ahora sé que se pueden hacer las cosas bien, y que no es tan difícil
+...o cualquiera de las otras frases que he ido escuchando durante este tiempo.
+
+Creo que la clave fue que conseguimos imprimir los valores ágiles en el equipo.
+
+Claramente hubiera sido imposible sin una buena gestión ágil. 
+
+Fue muy útil comenzar definiendo nuestros valores como equipo, y completando nuestra [Definición de Terminado (Definition of Done)](https://www.scrum.org/Resources/Scrum-Glossary/Definition-of-Done).
+
+Durante el desarrollo utilizamos:
+
+*	[Mob Programming](http://en.wikipedia.org/wiki/Mob_programming) para alinear nuestra visión en las fases más tempranas del desarrollo.
+*	[Pair Programming](https://becomingagile.wordpress.com/2014/06/17/why-pair-programming-works/) siempre, con rotaciones cada dos días establecidas en una tabla.
+*	[Técnica del Pomodoro](http://es.wikipedia.org/wiki/T%C3%A9cnica_Pomodoro). Intentamos combinar esta técnica de concentración con el pair programming para establecer los "Cambios de conductor".
+*	Pizarra Kanban para mostrar nuestro progreso y limitar el [Work in Progress](http://www.kanbanway.com/importance-of-kanban-work-in-progress-wip-limits#.VJkYyF4CA).
+*	Medición y lucha para reducir el [Cycle time](http://en.wikipedia.org/wiki/Cycle_time_variation).
+*	[Stop the line](https://becomingagile.wordpress.com/2014/02/16/stop-the-line-2/).
+*	Retrospectivas curradas donde aprendimo técnicas como el [Pensamiento sistémico](http://en.wikipedia.org/wiki/Systems_thinking).
+*	Métricas con [SonarQube](http://www.sonarqube.org/).
+*	TDD.
+*	[BDD](http://en.wikipedia.org/wiki/Behavior-driven_development).
+
+Como podéis ver, de todo. 
+
+Lo mejor que se puede decir es que el proyecto salió muy bien. 
+
+Trabajamos duro y no siempre fue fácil, pero yo personalmente llegaba contento a casa. 
+
+El único problema que encontramos es que el proyecto terminara. 
+
+Al ponerlo en perspectiva es cuando realmente vimos lo que sucedió allí. 
+
+Desde el momento que terminó, fue imposible no comparar.
+
+Ahora sé que se pueden hacer las cosas bien, y que no es tan difícil.
 
 ## MOOCs
 
-Fue a finales del año pasado cuando me di cuenta de que la formación era mi propia responsabilidad y que no debía esperar a ninguna empresa.
+A mediados del año pasado me di cuenta de que la formación era mi propia responsabilidad y que no debía esperar a ninguna empresa.
 
 Por suerte se estaban popularizando los [MOOCs](http://es.wikipedia.org/wiki/MOOC) y la verdad es que son una gran herramienta. 
 
@@ -64,9 +101,9 @@ Me enviaron un vale para otro intento, pero la siguiente convocatoria era en ver
 
 Aun así no me rendí, me compré el libro [MongoDB: The Definitive Guide](http://www.amazon.es/MongoDB-Definitive-Guide-Kristina-Chodorow-ebook/dp/B00CPSIQ7O/), y actualmente estoy trabajando con él.
 
-Veremos en el repaso del año que viene, si lo conseguí o lo dí por imposible. :)
+Veremos en el repaso del año que viene, si lo conseguí o volví a fracasar y pasé del examen. :)
 
-Actualmente estoy en un curso llamado [Become a SuperLearner: Learn Speed Reading & Advanced Memory](https://www.udemy.com/superlearning-speed-reading-memory-techniques/). Dedicando tiempo a aprender a aprender.
+Actualmente estoy en un curso de [Udemy](https://www.udemy.com/) llamado [Become a SuperLearner: Learn Speed Reading & Advanced Memory](https://www.udemy.com/superlearning-speed-reading-memory-techniques/). Dedicando tiempo a aprender a aprender.
 
 ## Libros
 
@@ -134,9 +171,11 @@ Luego improvisaré :D
 
 Aun así empiezo mal, porque me acabo de apuntar al Curso online de Refactoring a patrones de Xavi Gost.
 
-* Inglés, inglés, inglés: Necesito mejorar mi inglés, así que estoy buscando clases particulares, quizá por skype.
+También tengo que terminar el de Speed Reading y memorización. Necesito mejorar mi capacidad de aprendizaje. Creo que merece la pena invertir ahí cuando hay tanto que aprender.
 
-* Blog: Aunque le he dado mucha caña últimamente, recuerdo que no tengo ningún compromiso de periodicidad, y sé que no voy a poder mantener este ritmo. 
+* Inglés, inglés, inglés: Necesito mejorar listening y speaking, así que estoy buscando clases particulares, quizá por skype.
+
+* Blog: Aunque le he dado mucha caña últimamente, recuerdo que no tengo ningún compromiso de periodicidad. No voy a mantener este ritmo. 
 
 Simplemente ha sido al final de año cuando he tenido más cosas que contar.
 
@@ -146,53 +185,88 @@ Sigue siendo para mí una herramienta, una que me vendrá muy bien en épocas ma
 
 Despido el post y el año con un gran sabor de boca, con muchas cosas pendientes y mejorables, pero sintiéndome orgulloso de lo conseguido.
 
-No sé si lo he hecho mal o bien, pero lo que sí sé es que el año pasado no tenía ni blog, ni cuenta en GitHub, ni había hecho cursos por mi cuenta, ni había leído los libros que he mencionado. 
+No sé cómo de bien o mal lo he hecho, pero lo que sí sé es que el año pasado no tenía ni blog, ni cuenta en GitHub, ni había hecho cursos por mi cuenta, ni había leído los libros que he mencionado. 
 
 Hoy tengo diez posts y alguna que otra visita, que hasta ha decidido dedicar unos minutos de su tiempo a comentar (¡gracias!).
 
 También tengo un poco de código horrible para el que quiera ojear, y unos cuantos libros, cursos y experiencias a mis espaldas.
 
-Y estoy disfrutando del camino. Por eso termino con este famoso poema de [Cavafis](http://es.wikipedia.org/wiki/Constantino_Cavafis), deseando que el camino sea largo.
+¡Y estoy disfrutando del camino! 
+
+Por eso termino con este famoso poema de [Cavafis](http://es.wikipedia.org/wiki/Constantino_Cavafis), deseando que el camino sea largo.
 
 >  Cuando emprendas tu viaje a Ítaca
+>
 > pide que el camino sea largo,
+>
 > lleno de aventuras, lleno de experiencias.
+>
 > No temas a los lestrigones ni a los cíclopes
+>
 > ni al colérico Poseidón,
+>
 > seres tales jamás hallarás en tu camino,
+>
 > si tu pensar es elevado, si selecta
+>
 > es la emoción que toca tu espíritu y tu cuerpo.
+>
 > Ni a los lestrigones ni a los cíclopes
+>
 > ni al salvaje Poseidón encontrarás,
+>
 > si no los llevas dentro de tu alma,
+>
 > si no los yergue tu alma ante ti.
-> 
+
 >  Pide que el camino sea largo.
+>
 > Que muchas sean las mañanas de verano
+>
 > en que llegues -¡con qué placer y alegría!-
+>
 > a puertos nunca vistos antes.
+>
 > Detente en los emporios de Fenicia
+>
 > y hazte con hermosas mercancías,
+>
 > nácar y coral, ámbar y ébano
+>
 > y toda suerte de perfumes sensuales,
+>
 > cuantos más abundantes perfumes sensuales puedas.
+>
 > Ve a muchas ciudades egipcias
+>
 > a aprender, a aprender de sus sabios.
-> 
+
 >  Ten siempre a Ítaca en tu mente.
+>
 > Llegar allí es tu destino.
+>
 > Mas no apresures nunca el viaje.
+>
 > Mejor que dure muchos años
+>
 > y atracar, viejo ya, en la isla,
+>
 > enriquecido de cuanto ganaste en el camino
+>
 > sin aguantar a que Ítaca te enriquezca.
-> 
+
 >  Ítaca te brindó tan hermoso viaje.
+>
 > Sin ella no habrías emprendido el camino.
+>
 > Pero no tiene ya nada que darte.
-> 
+
+
 >  Aunque la halles pobre, Ítaca no te ha engañado.
+>
 > Así, sabio como te has vuelto, con tanta experiencia,
+>
 > entenderás ya qué significan las Ítacas.
+>
 > - C. P. Cavafis
 
