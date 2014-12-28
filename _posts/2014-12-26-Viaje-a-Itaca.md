@@ -93,7 +93,7 @@ Desde entonces he realizado los siguientes:
 
 También hice uno de economía básica y otro de microeconomía, pero más por cultura general.
 
-![Moocs](http://localhost:4000/images/mooc.jpg)
+![Moocs]({{ site.url }}/images/mooc.jpg)
 
 Como veis quise enterarme de una vez por todas de qué eran las bases de datos no relacionales, el no-sql, etc... 
 
@@ -119,7 +119,7 @@ Aún me queda mucho por hacer, pero en términos generales voy consiguiendo alar
 
 Así que creo que he hecho bien, porque era en lo que más necesitaba trabajar.
 
-![Los libros y los Muggles](http://localhost:4000/images/muggles.png)
+![Los libros y los Muggles]({{ site.url }}/images/muggles.png)
 
 Libros relacionados con la profesión leídos en el año y sin ningún orden particular:
 
@@ -173,7 +173,7 @@ Toca intentar hacer planes. Luego siempre acaban desmontados porque la vida suel
 
     Luego improvisaré :D
 
-![Propósitos 2015](http://localhost:4000/images/propositos.jpg)
+![Propósitos 2015]({{ site.url }}/images/propositos.jpg)
 	
 * Cursos: Aquí mi propósito es un compromiso de contención, porque veo las webs con listas mensuales de cursos gratuitos que se inician y me quiero apuntar a todos, y acabo agobiado o dejándolo.
 
@@ -199,7 +199,7 @@ Hoy tengo diez posts y alguna que otra visita, que hasta ha decidido dedicar uno
 
 También tengo un poco de código horrible para el que quiera ojear, y unos cuantos libros, cursos y experiencias a mis espaldas.
 
-![Viaje a Ítaca](http://localhost:4000/images/itaca.jpg)
+![Viaje a Ítaca]({{ site.url }}/images/itaca.jpg)
 
 ¡Y estoy disfrutando del camino! 
 
