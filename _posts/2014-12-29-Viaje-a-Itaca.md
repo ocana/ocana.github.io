@@ -49,6 +49,8 @@ De hecho, éramos un equipo que no había trabajado nunca antes junto, pero ten�
 
 Posiblemente la clave fue que conseguimos imprimir los valores ágiles en el equipo gracias también a una buena gestión, preocupada por el producto y el flujo de trabajo.
 
+![Agile Manifesto]({{ site.url }}/images/agile-manifesto.png)
+
 Para conseguirlo fue de mucha utilidad comenzar con Mob Programming, definiendo nuestros valores como equipo y completando nuestra [Definición de Terminado (Definition of Done)](https://www.scrum.org/Resources/Scrum-Glossary/Definition-of-Done).
 
 Trabajamos duro y no siempre fue fácil, pero yo personalmente llegaba contento a casa, y al final tuvimos un producto del que estábamos orgullosos.
