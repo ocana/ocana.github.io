@@ -108,7 +108,7 @@ De hecho me quedo con el consejo de hacer el esfuerzo de intentar especificar to
 
 ### La economía del refactoring. Una visión desde la gestión económica del proyecto – [Xavi Gost](https://twitter.com/xav1uzz)
 
-Para mí el otro gran plato fuerte del día, tenía muchas expectativas tras su charla del año pasado, que comenté recientemente [en este post](ocana.github.io/articles/estado-del-arte/), y no me defraudó.
+Para mí el otro gran plato fuerte del día, tenía muchas expectativas tras su charla del año pasado, que comenté recientemente [en este post](http://ocana.github.io/articles/estado-del-arte/), y no me defraudó.
 
 Es muy difícil perder la sonrisa durante su charla, con referencias a [Fino Filipino](http://finofilipino.org/) o a Chiquito de la Calzada, y sin embargo suele tratar temas bastante profundos y exponer muchas ideas. 
 
