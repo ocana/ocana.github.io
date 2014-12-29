@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Viaje a Ítaca"
-description: "Repaso a lo avanzado en el año y propósitos para el año que viene"
+description: "Repaso informático a lo avanzado en el año y propósitos para el año que viene"
 category: articles
 tags: [personal, retrospectiva, resumen 2014, propósitos 2015]
 comments: true
@@ -10,7 +10,7 @@ share: true
 
 Hoy esta cocina rinde homenaje al cocinero. 
 
-Quizá hoy el público no disfrute tanto del menú, pero una vez al año toca recoger lo sembrado, y pensar propósitos para el año siguiente.
+Quizá esta vez el público no disfrute tanto del menú, pero una vez al año toca recoger lo sembrado, y pensar propósitos para el año siguiente.
 
 ## Esfuerzo
 
@@ -22,35 +22,13 @@ Ha sido un año de sacrificios, de poner en la balanza muchas comodidades, y ren
 
 Me hice consciente de la [Ley de Parkinson](http://es.wikipedia.org/wiki/Ley_de_Parkinson), y puse plazos a mis objetivos.
 
-En definitiva, me ha costado mucho poner a girar la rueda, pero tenía que hacerlo.
+En resumen, me ha costado mucho poner a girar la rueda, pero tenía que hacerlo.
 
 ## El mejor proyecto en el que he trabajado
 
 Este año he tenido la oportunidad increíble de participar en un proyecto de esos en los que cualquier programador querría estar.
 
-Aún con perfiles muy diferentes y sin ser ninguno de nosotros grandes expertos (lo siento si estáis leyendo esto :P ).
-
-Aún en un equipo que no había trabajado nunca antes junto, pero que estaba dispuesto a currar para sacar un trabajo adelante.
-
-Quiero destacar esto: *No éramos el Equipo A*. 
-
-Es una frase dedicada a los que creen que:
-
-*  Esto de ser ágiles es sólo una cosa que viene en los libros.
-*  Sólo es poner post-it pero acaba siendo lo mismo.
-*  Sólo funciona con gente experta.
-*  o en proyectos cortos.
-*  o en proyectos largos.
-
-...o cualquiera de las otras frases que he ido escuchando durante este tiempo.
-
-Creo que la clave fue que conseguimos imprimir los valores ágiles en el equipo.
-
-Claramente hubiera sido imposible sin una buena gestión ágil. 
-
-Fue muy útil comenzar definiendo nuestros valores como equipo, y completando nuestra [Definición de Terminado (Definition of Done)](https://www.scrum.org/Resources/Scrum-Glossary/Definition-of-Done).
-
-Durante el desarrollo utilizamos:
+Resumo el conjunto de técnicas más destacadas que utilizamos:
 
 *	[Mob Programming](http://en.wikipedia.org/wiki/Mob_programming) para alinear nuestra visión en las fases más tempranas del desarrollo.
 *	[Pair Programming](https://becomingagile.wordpress.com/2014/06/17/why-pair-programming-works/) siempre, con rotaciones cada dos días establecidas en una tabla.
@@ -65,17 +43,21 @@ Durante el desarrollo utilizamos:
 
 Como podéis ver, de todo. 
 
-Lo mejor que se puede decir es que el proyecto salió muy bien. 
+De partida sonaba arriesgado: Gente con perfiles muy diferentes y sin ser ninguno de nosotros grandes expertos (lo siento si estáis leyendo esto :P ).
 
-Trabajamos duro y no siempre fue fácil, pero yo personalmente llegaba contento a casa. 
+De hecho, éramos un equipo que no había trabajado nunca antes junto, pero teníamos una cosa a nuestro favor, estábamos dispuestos a currar para sacar un trabajo adelante.
 
-El único problema que encontramos es que el proyecto terminara. 
+Posiblemente la clave fue que conseguimos imprimir los valores ágiles en el equipo gracias también a una buena gestión, preocupada por el producto y el flujo de trabajo.
 
-Al ponerlo en perspectiva es cuando realmente vimos lo que sucedió allí. 
+Para conseguirlo fue de mucha utilidad comenzar con Mob Programming, definiendo nuestros valores como equipo y completando nuestra [Definición de Terminado (Definition of Done)](https://www.scrum.org/Resources/Scrum-Glossary/Definition-of-Done).
 
-Desde el momento que terminó, fue imposible no comparar.
+Trabajamos duro y no siempre fue fácil, pero yo personalmente llegaba contento a casa, y al final tuvimos un producto del que estábamos orgullosos.
 
-Ahora sé que se pueden hacer las cosas bien, y que no es tan difícil.
+Es verdad que tampoco era muy complejo, pero qué narices, se puede decir que salió muy bien.
+
+Ahora, para bien o para mal, sé que se pueden hacer las cosas bien, y que de hecho no es tan difícil.
+
+Y digo "*para bien o para mal*" porque una vez que el proyecto acabó, se convirtió en un nuevo estándar para mí, y todos los proyectos que he ido encontrando palidecen en la comparación.
 
 ## MOOCs
 
