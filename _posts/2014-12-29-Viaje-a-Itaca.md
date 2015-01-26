@@ -112,6 +112,7 @@ Libros relacionados con la profesión leídos en el año y sin ningún orden par
 * [Scrum (Mega Pack)](http://www.amazon.es/Stakeholder-Development-Inspired-Schwaber-Sutherland-ebook/dp/B00988FMU8).
 * [The Clean Coder](http://www.amazon.es/The-Clean-Coder-Professional-Programmers/dp/0137081073) de Robert C. Martin.
 * [The Pragmatic Programmer](https://pragprog.com/the-pragmatic-programmer) de Andrew Hunt y David Thomas.
+* [Data + Design](https://infoactive.co/data-design) de varios autores.
 * [C++ for the Impatient](http://brianoverland.com/books/) de Brian Overland. (He leído más de medio, y fui haciendo los ejercicios, pero lo acabé dejando y pensando en él como libro de consulta).
 * [MongoDB: The Definitive Guide](http://shop.oreilly.com/product/0636920028031.do) de Kristina Chodorow. (En curso la lectura exhaustiva).
 
