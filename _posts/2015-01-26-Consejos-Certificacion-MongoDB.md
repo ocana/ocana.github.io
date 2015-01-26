@@ -20,7 +20,7 @@ La mejor forma que encontré de despejar todas las incógnitas fue apuntarme a l
 
 Podría haber sido cualquier otra, pero creo que es de las más conocidas. Forma parte del llamado *[stack MEAN](http://en.wikipedia.org/wiki/MEAN)*, y el curso gratuito, de siete semanas de duración, resultó decisorio en la elección.
 
-![MEAN stack](http://localhost:4000/images/mean.png)
+![MEAN stack]({{ site.url }}/images/mean.png)
 
 Además no había versión en .Net, así que pensé que sería una buena ocasión para desempolvar mis habilidades javeras.
 
@@ -46,7 +46,7 @@ Iluso de mí, el año pasado me lo creí.
 
 Y eso que antes de lanzarme a la piscina, me aseguré de repetir el curso en las ediciones en Python y Node.js, para aprender algo por el camino y que no se me hiciera aburrido.
 
-![It's a trap!](http://localhost:4000/images/trap.png)
+![It's a trap!]({{ site.url }}/images/trap.png)
 
 Entonces, ¿el curso te prepara para la certificación?
 
@@ -128,7 +128,7 @@ Tendrán acceso a tu webcam y micrófono durante todo el examen, y control compa
 
 No recuerdo si aceptas que se grabe la sesión, la verdad.
 
-![Yo durante un examen](http://localhost:4000/images/examen.jpg)
+![Yo durante un examen]({{ site.url }}/images/examen.jpg)
 
 Recomiendo conocimientos de inglés, no sólo porque es el idioma del examen y hay que entender lo que preguntan, sino porque tendréis que seguir los pasos que os indique la persona que os vigila.
 
