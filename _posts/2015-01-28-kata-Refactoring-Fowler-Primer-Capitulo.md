@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Kata] Videoclub - Refactoring de Fowler - Primer Capítulo"
-description: "Kata en C# del ejemplo de Refactoring incluido en el primer capítulo del libro de Martin Fowler"
+description: "Kata del ejemplo de Refactoring incluido en el primer capítulo del libro de Martin Fowler"
 category: articles
 tags: [Kata, C#, Refactoring]
 comments: true
