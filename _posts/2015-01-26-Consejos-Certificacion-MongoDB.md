@@ -8,6 +8,8 @@ comments: true
 share: true
 ---
 
+**Actualización**: ¡He aprobado! Supongo que ahora ya os podéis creer un poco más los consejos :D
+
 **Exención de responsabilidad**: Estos consejos deben ser tomados con precaución, ya que cuando me presenté por primera vez el año pasado suspendí, y aún no conozco el resultado del examen que realicé la semana pasada ¡No las tengo todas conmigo!
 
 ## Cómo llegué a MongoDB
