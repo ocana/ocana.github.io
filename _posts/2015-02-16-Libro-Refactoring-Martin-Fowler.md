@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-Esta semana terminé el libro *[Refactoring: Improving the design of existing code](http://martinfowler.com/books/refactoring.html)* de Martin Fowler y quiero probar este formato de post, fusilado completamente de los que hace [Ruben Chevarría en su blog](http://rchavarria.github.io/readings/), pero no esperéis ni la mitad de lo que consigue él.
+Esta semana terminé el libro *[Refactoring: Improving the design of existing code](http://martinfowler.com/books/refactoring.html)* de Martin Fowler y quiero probar este formato de post, fusilado completamente de los que hace [Rubén Chavarría en su blog](http://rchavarria.github.io/readings/), pero no esperéis ni la mitad de lo que consigue él.
 
 ## Por qué lo he leído
 
