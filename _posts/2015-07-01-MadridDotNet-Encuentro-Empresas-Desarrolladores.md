@@ -80,7 +80,7 @@ Llama la atención el uso de F# para el desarrollo de ciertos sistemas, se nota 
 
 ### RAET
 
-En [RAET](www.raet.com) optaron por no preparar una presentación, sino en una explicación a viva voz del proyecto en el que están trabajando, y es que a veces lo más sencillo es lo más eficaz.
+En [RAET](http://www.raet.com) optaron por no preparar una presentación, sino en una explicación a viva voz del proyecto en el que están trabajando, y es que a veces lo más sencillo es lo más eficaz.
 
 ![RAET]({{ site.url }}/images/raet.jpg)
 
