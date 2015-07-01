@@ -112,7 +112,7 @@ Personalmente conozco a varias personas a las que admiro y que están trabajando
 
 ### Unisys
 
-Tras algún problema con el horario y un cambio de ponente por complicaciones de última hora, le tocó el turno a Unisys, una empresa multinacional de servicios y consultoría informática, enorme a nivel de empleados y con una gran cantidad de años a sus espaldas, lo que me sorprendió porque la verdad nunca había oído hablar de ellos.
+Tras algún problema con el horario y un cambio de ponente por complicaciones de última hora, le tocó el turno a [Unisys](https://www.unisys.es/), una empresa multinacional de servicios y consultoría informática, enorme a nivel de empleados y con una gran cantidad de años a sus espaldas, lo que me sorprendió porque la verdad nunca había oído hablar de ellos.
 
 ![unisys]({{ site.url }}/images/unisys.jpg)
 
