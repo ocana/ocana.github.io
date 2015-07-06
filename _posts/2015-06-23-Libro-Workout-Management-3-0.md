@@ -30,7 +30,7 @@ Es un libro nada convencional en cuanto formato, con un estilo muy colorista que
 
 Llama la atención y quita esa seriedad que tanto gusta en los libros de gestión y que por otra parte suele alejarnos a los que no nos consideramos gestores.
 
-![Workout Management](http://localhost:4000/images/workout-book.jpg)
+![Workout Management](http://ocana.github.io/images/workout-book.jpg)
 
 El libro recopila tanto su experiencia personal como la recogida durante su trabajo ayudando a las diferentes organizaciones.
 
