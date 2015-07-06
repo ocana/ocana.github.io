@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-!Curioso y arriesgado evento el que propusieron desde [MadridDotNet](http://meetu.ps/2K2Jtb)!
+¡Curioso y arriesgado evento el que propusieron desde [MadridDotNet](http://meetu.ps/2K2Jtb)!
 
 La idea era que empresas que buscan talento en desarrollo en .Net pudieran contarnos en qué están trabajando, las necesidades que tienen, y lo que pueden ofrecer.
 
