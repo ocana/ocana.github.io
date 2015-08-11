@@ -10,17 +10,23 @@ share: true
 
 Ya que he instalado *Windows 10* en el equipo de casa y he tenido que reinstalar cosas, aprovecho para hacer un mini-tutorial de puesta en marcha de [Jekyll](http://jekyllrb.com/) en local, el generador de blog y sitios web estáticos basado en [Ruby](https://es.wikipedia.org/wiki/Ruby) y que utilizo para este humilde sitio.
 
-El proceso es idéntico para *Windows 7*, *Windows 8* y *Windows 10*.
+Para los que usáis *Windows 7* o *Windows 8* este tutorial también es válido.
 
 ## Un blog en GitHub
 
-[GitHub](https://github.com/) no sólo permite alojar nuestro código fuente sino que también nos proporciona de forma gratuita el alojamiento de un sitio por cuenta de usuario con el dominio *username.github.io*, y de forma ilimitada un sitio por cada proyecto. Toda esta gestión de páginas es lo que han tenido a bien llamar [GitHub Pages](https://pages.github.com/).
+[GitHub](https://github.com/) no sólo permite alojar nuestro código fuente, sino que también nos proporciona de forma gratuita:
+
+ * Alojamiento para un sitio asociado a nuestra cuenta de usuario, con el dominio *username.github.io*.
+ 
+ * Alojamiento para un sitio por cada proyecto, de forma ilimitada. 
+ 
+Toda esta gestión de páginas es lo que han tenido a bien llamar [GitHub Pages](https://pages.github.com/).
 
 ![GitHub Pages](http://localhost:4000/images/github-pages.png)
 
 Sirva como ejemplo de múltiples sitios este blog, que está alojado en el proyecto asociado a [mi usuario de GitHub: ocana](https://github.com/ocana), dando lugar a *ocana.github.io*, y cuyo código fuente podéis consultar (e incluso modificar o corregir, sois bienvenidos) [aquí](https://github.com/ocana/ocana.github.io).
 
-Por otra parte, tengo [una sección de Katas](http://ocana.github.io/katas/) actualmente almacenando un poco de polvo, donde cada *kata* es un proyecto de *GitHub*, y enlaza con su correspondiente sitio web, generado con la herramienta automática, como cuento más adelante.
+Por otra parte, tengo [una sección de Katas](http://ocana.github.io/katas/) actualmente acumulando un poco de polvo, donde cada *kata* es un proyecto de *GitHub*, y enlaza con su correspondiente sitio web, generado con la herramienta automática, como cuento más adelante.
 
 Si por ejemplo echáis un vistazo a la [kata de Gilded Rose](http://ocana.github.io/articles/kata-Gilded-Rose/) (muy divertida, os la recomiendo), veréis que enlazo [con la página del proyecto](http://ocana.github.io/GildedRose/), página cuyo código fuente también podéis [consultar en GitHub](https://github.com/ocana/GildedRose/tree/gh-pages).
 
@@ -33,7 +39,7 @@ Uno de los motivos por el cuál usar GitHub y Jekyll para nuestra web es poder u
 > **Markdown** is a lightweight markup language with plain text formatting syntax designed so that it can be converted to HTML and many other formats using a tool by the same name.
 *Markdown* is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
 
-La verdad es que es un lenguaje muy cómodo que a me ayuda a concentrarme en lo que escribo, sin tener que prestar atención al HTML o a si quedará bien.
+La verdad es que es un lenguaje muy cómodo que me ayuda a concentrarme en el texto que escribo, sin tener que prestar atención al *HTML* o a si quedará bien.
 
 Una vez asimilada la sintaxis básica nos valdrá cualquier editor de texto para generar nuevas entradas, no necesitamos nada más.
 
@@ -71,7 +77,11 @@ El corazón de las *GitHub Pages* es [Jekyll](http://jekyllrb.com/), que como he
 
 * Previsualizar el aspecto de tus artículos en local antes de subirlos. Por ejemplo permite hacernos una idea de cómo quedarán los textos tras incluir imágenes.
 
-* Editar los textos con nuestro editor favorito. En mi caso utilizo [Notepad++](https://notepad-plus-plus.org/).
+* Editar los textos con nuestro editor favorito. En mi caso utilizo [Notepad++](https://notepad-plus-plus.org/), pero podéis explorar miles de opciones.
+
+He estado probando con *Visual Studio 2015* que, aunque evidentementemente es mucho más pesado, instalando [Web Essentials](http://vswebessentials.com/download) nos marca la sintaxis y nos permite ver en tiempo real cómo va quedando el diseño. Os dejo una imágen del resultado:
+
+![Editor GitHub Pages](http://localhost:4000/images/blog-vs2015.png)
 
 ## Instalando Jekyll en Windows 10
 
@@ -80,6 +90,7 @@ Empiezo con un disclaimer, ya que no he inventado nada ni pretendo atribuirme ni
 Por si os falla algo, os remito a las páginas utilizadas  para la elaboración:
 
 * La sección de *Jekyll* en Windows de la propia página web: [http://jekyllrb.com/docs/windows/](http://jekyllrb.com/docs/windows/).
+
 * El siguiente tutorial, al que también referencia la página anterior: [http://jekyll-windows.juthilo.com/](http://jekyll-windows.juthilo.com/).
 
 ### 1 - Instalar Ruby
@@ -186,4 +197,4 @@ Ya podéis ver el resultado en el navegador, y si dejáis el proceso lanzado en 
 
 ![Blog en local](http://localhost:4000/images/blog-local.png)
 
-¡Vaya! es mi primer tutorial, y me ha quedado bastante largo, espero no haberos aburrido mucho y que haya valido la pena, si queréis que entre en algún tema en concreto admito peticiones, ¡y recordad que si encontráis algún fallo admito *pull requests*!
+¡Vaya! es mi primer tutorial, y me ha quedado bastante largo, ¡no sabía que tanto! espero no haberos aburrido mucho y que haya valido la pena, si queréis que entre en más detalle en algún punto en concreto admito peticiones, ¡y recordad que si encontráis algún fallo también admito *pull requests*!
