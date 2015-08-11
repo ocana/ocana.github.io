@@ -59,33 +59,35 @@ Si no queréis nada muy avanzado, la propia web de *GitHub* incluye un [generado
 
 Su uso es muy sencillo, aunque os aconsejo seguir [las instrucciones oficiales](https://help.github.com/articles/creating-pages-with-the-automatic-generator/).
 
-Básicamente se trata de ir a la sección de *Opciones*, darle al botón del generador automático, y nos aparecerá un editor para escribir nuestro artículo.
+Básicamente se trata de ir a la sección de *Opciones*, darle al botón del generador automático, y nos aparecerá un editor para escribir nuestro artículo:
 
 ![Editor GitHub Pages](http://localhost:4000/images/github-editor.png)
 
-El siguiente paso es elegir un layout de entre los disponibles, y ya tendremos nuestra página funcionando.
+El siguiente paso consistirá en elegir un layout de entre los disponibles:
 
 ![Layouts GitHub Pages](http://localhost:4000/images/github-layouts.png)
+
+Un click más y ya tendremos nuestra página funcionando.
 
 ## Las ventajas de Jekyll en local
 
 El corazón de las *GitHub Pages* es [Jekyll](http://jekyllrb.com/), que como hemos mencionado antes permite hacer fácilmente páginas estáticas y blogs, por lo que instalarlo en nuestra máquina local nos reportará ciertas ventajas, como por ejemplo:
 
-* Utilizar un diseño o tema diferente a los que proporciona *GitHub* por defecto. Hay muchos disponibles en internet, por ejemplo los de la página [jekyllthemes.org](http://jekyllthemes.org/).
+* Utilizar un diseño o tema diferente a los que proporciona *GitHub* por defecto. Hay muchos disponibles en internet, como los de la página [jekyllthemes.org](http://jekyllthemes.org/).
 
 * Realizar cambios en las plantillas para almodarlas a tu web. Por ejemplo yo añadí las sección de *Katas*.
 
-* Previsualizar el aspecto de tus artículos en local antes de subirlos. Por ejemplo permite hacernos una idea de cómo quedarán los textos tras incluir imágenes.
+* Previsualizar el aspecto de tus artículos en local antes de subirlos. Lo que permite hacernos una idea de cómo quedarán los textos tras incluir imágenes.
 
 * Editar los textos con nuestro editor favorito. En mi caso utilizo [Notepad++](https://notepad-plus-plus.org/), pero podéis explorar miles de opciones.
 
-He estado probando con *Visual Studio 2015* que, aunque evidentementemente es mucho más pesado, instalando [Web Essentials](http://vswebessentials.com/download) nos marca la sintaxis y nos permite ver en tiempo real cómo va quedando el diseño. Os dejo una imágen del resultado:
+Aprovechando la instalación desde cero, he estado probando a editar el blog con *Visual Studio 2015* que, aunque evidentementemente es mucho más pesado, instalando [Web Essentials](http://vswebessentials.com/download) nos da utilidades como el marcado de la sintaxis o permitirnos ver en tiempo real cómo va quedando el diseño. Os dejo una imágen del resultado:
 
 ![Editor GitHub Pages](http://localhost:4000/images/blog-vs2015.png)
 
 ## Instalando Jekyll en Windows 10
 
-Empiezo con un disclaimer, ya que no he inventado nada ni pretendo atribuirme ningún mérito en el tutorial, además es un proceso muy sencillo, pero lo mismo ayudo a que no perdáis tiempo buceando entre la documentación.
+Empiezo con un *disclaimer*, ya que no he inventado nada ni pretendo atribuirme ningún mérito en el tutorial, además es un proceso muy sencillo, pero lo mismo ayudo a que no perdáis tiempo buceando entre la documentación.
 
 Por si os falla algo, os remito a las páginas utilizadas  para la elaboración:
 
@@ -114,7 +116,9 @@ En mi caso es la versión de 64 bits para el uso desde Ruby 2.0 en adelante.
 La descarga es un archivo comprimido auto-extraíble, por lo que al ejecutarlo nos pedirá el *path* de extracción. En la web recomiendan dar el nombre de un *path* que no contenga espacios en blanco, por ejemplo:
 
     C:\RubyDevKit\
+	
 Una vez extraido iremos a la carpeta que contiene el resultado:
+
 ![Carpeta de Ruby Development Kit](http://localhost:4000/images/ruby-devkit-folder.png)
 
 Y con un truco que supongo que todos conoceréis, abrimos una ventana de ejecución de línea de comandos directamente en ese *path* escribiendo *cmd* y pulsando *Enter* en la barra del explorador de ficheros:
@@ -125,7 +129,9 @@ Allí ejecutaremos nuestros dos primeros comandos de *Ruby*:
 
     ruby dk.rb init
     ruby dk.rb install
+
 El resultado debe ser este:
+
 ![Carpeta de Ruby Development Kit](http://localhost:4000/images/ruby-cmd-result.png)
 
 ¡Y ya tenemos instalado *Ruby* en *Windows 10*!
@@ -141,6 +147,7 @@ Pues bien, desde la misma línea de comandos anterior, ejecutamos:
     gem install jekyll
 
 Posiblemente el firewall de windows os pida permiso para que ruby pueda abrir conexiones al exterior, en cuyo caso debemos permitirlo.
+
 Un minuto después tendremos instalado en nuestro ordenador *Jekyll* y todas sus dependencias:
 
 ![Jekyll instalado](http://localhost:4000/images/jekyll-installed.png)
@@ -161,7 +168,9 @@ En mi caso esta vez instalé [Rouge](https://github.com/jneen/rouge), que es un 
 
 ![Instalar Rouge](http://localhost:4000/images/rouge.png)
 
-Ahora sólo queda configurar el marcador de sintaxis en nuestro fichero de configuración del sitio. Si hemos descargado un tema por internet, el fichero estará en la raíz y se llamará *_config.yml*, si lo editamos encontraremos (o si no viene la tendremos que añadir) una línea que indica el marcador:
+Ahora sólo queda configurar el marcador de sintaxis en nuestro fichero de configuración del sitio. 
+
+Si hemos descargado un tema por internet, el fichero estará en la raíz y se llamará *_config.yml*, si lo editamos encontraremos (o si no viene la tendremos que añadir) una línea que indica el marcador:
 
 ![Configurar highlighter](http://localhost:4000/images/highlighter.png)
 
@@ -175,11 +184,11 @@ Como véis yo he comentado con una almohadilla la línea original que selecciona
 
 Os recomiendo empezar [descargando un tema de los disponibles en internet](http://jekyllthemes.org/) para partir como base, ya que os proporcionará la estructura de ficheros de todo sitio en *Jekyll*, y es un buen punto de partida para empezar a modificar a nuestro gusto. 
 
-Si os pica la curiosidad, podéis directamente [descargar desde aquí este blog](https://github.com/ocana/ocana.github.io/archive/master.zip) en un zip directamente a vuestro ordenador para trastear.
+Si os pica la curiosidad, también podéis [descargar desde aquí este blog](https://github.com/ocana/ocana.github.io/archive/master.zip) en un zip directamente a vuestro ordenador para trastear.
 
 La estructura básica, así como la función de algunos archivos como el *_config.yml* del que hablamos anteriormente, se puede [consultar en la web](http://jekyllrb.com/docs/structure/).
 
-Puede que el primer día gastemos bastante tiempo trasteando cosas para dejarlas a nuestro gusto, pero lo importante, el contenido de la web, se encontrará en la carpeta *_posts*
+Puede que el primer día gastemos bastante tiempo modificando configuraciones para dejarlas a nuestro gusto, pero lo importante, el contenido de la web, se encontrará en la carpeta *_posts*
 
 ![Carpeta _posts](http://localhost:4000/images/posts.png)
 
@@ -191,7 +200,7 @@ Usando el truco que he comentado anteriormente, abrimos una ventana de línea de
 
     jekyll serve
 	
-Automáticamente se inicia la compilación del sitio a *HTML*, si sois muy curiosos podéis ver el resultado en la carpeta *_site* que se habrá generado en la raíz del blog, y lo más importante, nos indicará que nuestro sitio ya está disponible en la dirección por defecto: http://localhost:4000/
+Automáticamente se inicia la compilación del sitio a *HTML*, para los curiosos podéis ver el resultado de la compilación en la carpeta *_site* que se habrá generado en la raíz del blog, y lo más importante, nos indicará que nuestro sitio ya está disponible en la dirección por defecto: http://localhost:4000/
 
 Ya podéis ver el resultado en el navegador, y si dejáis el proceso lanzado en la línea de comandos, cualquier cambio que realicéis en los ficheros (recordad salvarlos) aparecerá automáticamente con sólo refrescar la página.
 
