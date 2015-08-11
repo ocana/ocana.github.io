@@ -200,7 +200,7 @@ Usando el truco que he comentado anteriormente, abrimos una ventana de línea de
 
     jekyll serve
 	
-Automáticamente se inicia la compilación del sitio a *HTML*, para los curiosos podéis ver el resultado de la compilación en la carpeta *_site* que se habrá generado en la raíz del blog, y lo más importante, nos indicará que nuestro sitio ya está disponible en la dirección por defecto: {{ site.url }}/
+Automáticamente se inicia la compilación del sitio a *HTML*, para los curiosos podéis ver el resultado de la compilación en la carpeta *_site* que se habrá generado en la raíz del blog, y lo más importante, nos indicará que nuestro sitio ya está disponible en la dirección por defecto: http://localhost:4000/
 
 Ya podéis ver el resultado en el navegador, y si dejáis el proceso lanzado en la línea de comandos, cualquier cambio que realicéis en los ficheros (recordad salvarlos) aparecerá automáticamente con sólo refrescar la página.
 
