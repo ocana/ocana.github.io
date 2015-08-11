@@ -22,7 +22,7 @@ Para los que usáis *Windows 7* o *Windows 8* este tutorial también es válido.
  
 Toda esta gestión de páginas es lo que han tenido a bien llamar [GitHub Pages](https://pages.github.com/).
 
-![GitHub Pages](http://localhost:4000/images/github-pages.png)
+![GitHub Pages]({{ site.url }}/images/github-pages.png)
 
 Sirva como ejemplo de múltiples sitios este blog, que está alojado en el proyecto asociado a [mi usuario de GitHub: ocana](https://github.com/ocana), dando lugar a *ocana.github.io*, y cuyo código fuente podéis consultar (e incluso modificar o corregir, sois bienvenidos) [aquí](https://github.com/ocana/ocana.github.io).
 
@@ -61,11 +61,11 @@ Su uso es muy sencillo, aunque os aconsejo seguir [las instrucciones oficiales](
 
 Básicamente se trata de ir a la sección de *Opciones*, darle al botón del generador automático, y nos aparecerá un editor para escribir nuestro artículo:
 
-![Editor GitHub Pages](http://localhost:4000/images/github-editor.png)
+![Editor GitHub Pages]({{ site.url }}/images/github-editor.png)
 
 El siguiente paso consistirá en elegir un layout de entre los disponibles:
 
-![Layouts GitHub Pages](http://localhost:4000/images/github-layouts.png)
+![Layouts GitHub Pages]({{ site.url }}/images/github-layouts.png)
 
 Un click más y ya tendremos nuestra página funcionando.
 
@@ -83,7 +83,7 @@ El corazón de las *GitHub Pages* es [Jekyll](http://jekyllrb.com/), que como he
 
 Aprovechando la instalación desde cero, he estado probando a editar el blog con *Visual Studio 2015* que, aunque evidentementemente es mucho más pesado, instalando [Web Essentials](http://vswebessentials.com/download) nos da utilidades como el marcado de la sintaxis o permitirnos ver en tiempo real cómo va quedando el diseño. Os dejo una imágen del resultado:
 
-![Editor GitHub Pages](http://localhost:4000/images/blog-vs2015.png)
+![Editor GitHub Pages]({{ site.url }}/images/blog-vs2015.png)
 
 ## Instalando Jekyll en Windows 10
 
@@ -101,15 +101,15 @@ Vamos al lío, hemos dicho que *Jekyll* funciona sobre [Ruby](https://es.wikiped
 
 Descargamos la última versión desde la página web [http://rubyinstaller.org/downloads/](http://rubyinstaller.org/downloads/), en mi caso la versión [Ruby 2.2.2 (x64)](http://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.2.2-x64.exe):
 
-![Instaladores Ruby](http://localhost:4000/images/ruby-installer.png)
+![Instaladores Ruby]({{ site.url }}/images/ruby-installer.png)
 
 Seguimos las instrucciones del instalador marcando la opción de añadir al PATH:
 
-![Instalar Ruby](http://localhost:4000/images/ruby-windows.png)
+![Instalar Ruby]({{ site.url }}/images/ruby-windows.png)
 
 Una vez completado, instalamos el kit de desarrollo de Ruby desde la misma página. Debemos ser cuidadosos instalando la versión apropiada para la versión de ruby instalada.
 
-![Instalar Ruby Development Kit](http://localhost:4000/images/ruby-devkit.png)
+![Instalar Ruby Development Kit]({{ site.url }}/images/ruby-devkit.png)
 
 En mi caso es la versión de 64 bits para el uso desde Ruby 2.0 en adelante.
 
@@ -119,11 +119,11 @@ La descarga es un archivo comprimido auto-extraíble, por lo que al ejecutarlo n
 	
 Una vez extraido iremos a la carpeta que contiene el resultado:
 
-![Carpeta de Ruby Development Kit](http://localhost:4000/images/ruby-devkit-folder.png)
+![Carpeta de Ruby Development Kit]({{ site.url }}/images/ruby-devkit-folder.png)
 
 Y con un truco que supongo que todos conoceréis, abrimos una ventana de ejecución de línea de comandos directamente en ese *path* escribiendo *cmd* y pulsando *Enter* en la barra del explorador de ficheros:
 
-![Carpeta de Ruby Development Kit](http://localhost:4000/images/ruby-cmd.png)
+![Carpeta de Ruby Development Kit]({{ site.url }}/images/ruby-cmd.png)
 
 Allí ejecutaremos nuestros dos primeros comandos de *Ruby*:
 
@@ -132,7 +132,7 @@ Allí ejecutaremos nuestros dos primeros comandos de *Ruby*:
 
 El resultado debe ser este:
 
-![Carpeta de Ruby Development Kit](http://localhost:4000/images/ruby-cmd-result.png)
+![Carpeta de Ruby Development Kit]({{ site.url }}/images/ruby-cmd-result.png)
 
 ¡Y ya tenemos instalado *Ruby* en *Windows 10*!
 
@@ -150,7 +150,7 @@ Posiblemente el firewall de windows os pida permiso para que ruby pueda abrir co
 
 Un minuto después tendremos instalado en nuestro ordenador *Jekyll* y todas sus dependencias:
 
-![Jekyll instalado](http://localhost:4000/images/jekyll-installed.png)
+![Jekyll instalado]({{ site.url }}/images/jekyll-installed.png)
 
 ### 3 - Instalar un marcador de sintaxis
 
@@ -166,13 +166,13 @@ En mi caso esta vez instalé [Rouge](https://github.com/jneen/rouge), que es un 
 
     gem install rougue
 
-![Instalar Rouge](http://localhost:4000/images/rouge.png)
+![Instalar Rouge]({{ site.url }}/images/rouge.png)
 
 Ahora sólo queda configurar el marcador de sintaxis en nuestro fichero de configuración del sitio. 
 
 Si hemos descargado un tema por internet, el fichero estará en la raíz y se llamará *_config.yml*, si lo editamos encontraremos (o si no viene la tendremos que añadir) una línea que indica el marcador:
 
-![Configurar highlighter](http://localhost:4000/images/highlighter.png)
+![Configurar highlighter]({{ site.url }}/images/highlighter.png)
 
 Como véis yo he comentado con una almohadilla la línea original que seleccionaba el marcador *Pygments*, y he seleccionado el marcador *Rouge*.
 
@@ -190,7 +190,7 @@ La estructura básica, así como la función de algunos archivos como el *_confi
 
 Puede que el primer día gastemos bastante tiempo modificando configuraciones para dejarlas a nuestro gusto, pero lo importante, el contenido de la web, se encontrará en la carpeta *_posts*
 
-![Carpeta _posts](http://localhost:4000/images/posts.png)
+![Carpeta _posts]({{ site.url }}/images/posts.png)
 
 Crear un nuevo post será tan sencillo como crear un nuevo archivo con extensión *md*, cuyo nombre especificará de forma estática la fecha de publicación y la url de publicación.
 
@@ -200,10 +200,10 @@ Usando el truco que he comentado anteriormente, abrimos una ventana de línea de
 
     jekyll serve
 	
-Automáticamente se inicia la compilación del sitio a *HTML*, para los curiosos podéis ver el resultado de la compilación en la carpeta *_site* que se habrá generado en la raíz del blog, y lo más importante, nos indicará que nuestro sitio ya está disponible en la dirección por defecto: http://localhost:4000/
+Automáticamente se inicia la compilación del sitio a *HTML*, para los curiosos podéis ver el resultado de la compilación en la carpeta *_site* que se habrá generado en la raíz del blog, y lo más importante, nos indicará que nuestro sitio ya está disponible en la dirección por defecto: {{ site.url }}/
 
 Ya podéis ver el resultado en el navegador, y si dejáis el proceso lanzado en la línea de comandos, cualquier cambio que realicéis en los ficheros (recordad salvarlos) aparecerá automáticamente con sólo refrescar la página.
 
-![Blog en local](http://localhost:4000/images/blog-local.png)
+![Blog en local]({{ site.url }}/images/blog-local.png)
 
 ¡Vaya! es mi primer tutorial, y me ha quedado bastante largo, ¡no sabía que tanto! espero no haberos aburrido mucho y que haya valido la pena, si queréis que entre en más detalle en algún punto en concreto admito peticiones, ¡y recordad que si encontráis algún fallo también admito *pull requests*!
