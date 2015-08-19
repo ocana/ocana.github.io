@@ -207,3 +207,17 @@ Ya podéis ver el resultado en el navegador, y si dejáis el proceso lanzado en 
 ![Blog en local]({{ site.url }}/images/blog-local.png)
 
 ¡Vaya! es mi primer tutorial, y me ha quedado bastante largo, ¡no sabía que tanto! espero no haberos aburrido mucho y que haya valido la pena, si queréis que entre en más detalle en algún punto en concreto admito peticiones, ¡y recordad que si encontráis algún fallo también admito *pull requests*!
+
+### Actualización - Plugins de Jekyll en GitHub
+
+Actualizo el post para incluir un detalle que no he mencionado pero que puede ser importante: los plugins de *Jekyll*.
+
+Seguro que habéis visto plugins maravillosos para incrustar fácilmente tweets, o vídeos de youtube, o mil cosas más, pero tengo una mala noticia.
+
+Según [la documentación oficial](http://jekyllrb.com/docs/plugins/), *GitHub* ejecuta *Jekyll* en modo seguro, por lo que no funcionarán una vez subidos.
+
+Podéis probar vosotros mismos en local a compilar en modo seguro con la opción:
+
+	--safe
+
+La única solución que nos ofrecen es que compilemos la solución en local y subamos el resultado, el html estático.
