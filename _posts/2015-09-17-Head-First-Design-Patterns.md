@@ -12,7 +12,7 @@ Probablemente conozcas el típico libro de patrones, en forma de compendio, y qu
 
 Puede incluso que ya hayas leído alguno de ese estilo, o que te hayan hablado de ellos pero pienses que eso no debe ir contigo porque no consigues encontrar ejemplos suficientes para aprenderlos bien.
 
-![Head First Design Patterns](http://localhost:4000/images/head-first2.jpg)
+![Head First Design Patterns]({{ site.url }}/images/head-first2.jpg)
 
 Pues [Eric Freeman](http://ericfreeman.com) y [Elisabeth Robson](http://elisabethrobson.com/) se han propuesto solucionar estos problemas con su libro [Head First Design Patterns](http://shop.oreilly.com/product/9780596007126.do).
 
@@ -21,7 +21,7 @@ es más, ¿es posible aprender patrones de diseño de forma divertida y sin perd
 
 Bienvenido a *Objectville*.
 
-![Welcome to Objectville](http://localhost:4000/images/head-first1.jpg)
+![Welcome to Objectville]({{ site.url }}/images/head-first1.jpg)
 
 ## Por qué lo he leído
 
@@ -37,13 +37,13 @@ Encontré mi introducción a [la serie de libros Head First](https://en.wikipedi
 
 Yo soy de los que aprendí *Java* y orientación a objetos con [Thinking in Java](https://en.wikipedia.org/wiki/Thinking_in_Java), pero me doy cuenta de que el libro *Head First* correspondiente me hubiera venido muy bien, así que seguro que volveré a caer en alguno de la serie más tarde o más temprano.
 
-![Head First Design Patterns](http://localhost:4000/images/head-first3.jpg)
+![Head First Design Patterns]({{ site.url }}/images/head-first3.jpg)
 
 Encontré un libro estructurado para ir adquiriendo los conocimientos de forma acumulativa, y con una suave pendiente en la dificultad, explicando cada concepto importante desde varios puntos de vista, con ejemplos bastante acertados y claros, y secciones de preguntas y respuestas.
 
 Poco a poco cada patrón se va desgranando hasta llegar a la definición formal de libro, o a ejemplos más reales.
 
-![Head First Design Patterns](http://localhost:4000/images/head-first4.jpg)
+![Head First Design Patterns]({{ site.url }}/images/head-first4.jpg)
 
 También se hace hincapié en los principios de diseño que inspiran los patrones, para que entendamos bien la motivación.
 
@@ -74,7 +74,7 @@ El libro me ha acompañado una larga temporada, primero porque es un tocho de cu
 
 Sobre todo patrones, patrones y patrones, y ejemplos rápidos para refererirme a ellos e identificarlos.
 
-![Head First Design Patterns](http://localhost:4000/images/head-first5.jpg)
+![Head First Design Patterns]({{ site.url }}/images/head-first5.jpg)
 
 Por último si te ha picado la curiosidad y quieres darle una oportunidad, desde *O'Reilly* han puesto de forma gratuita la siguiente guía: [An Engineering Manager's Guide to Design Patterns](http://www.oreilly.com/programming/free/files/engineering-managers-guide-design-patterns.pdf) que es como leer uno de los capítulos del libro, más que suficiente para saber lo que vas a encontrar durante su lectura.
 
@@ -84,7 +84,7 @@ He vuelto por fin al blog tras las vacaciones, tenía muchas ganas de escribir y
 
 Aun así voy a seguir dándole duro, y ya que hace tiempo que no escribo, aprovecho para contaros como extra un par de libros fuera del mundo del software que he leído durante este verano y que quiero recomendaros.
 
-![Open de André Agassi](http://localhost:4000/images/open.jpg)
+![Open de André Agassi]({{ site.url }}/images/open.jpg)
 
 **[Open](http://www.amazon.es/Open-Nefelibata-Andre-Agassi/dp/8415945485)** de *André Agassi*. 
 
@@ -92,7 +92,7 @@ Sí, puede que os suene raro que yo haya leído algo relacionado con el deporte,
 
 Lo leí fue porque se encuentra entre los libros recomendados por gente de la industria como *Mark Zuckerberg* o *Bill Gates* (ya os hablé de ello al final del post de [Creatividad S.A.](http://ocana.github.io/articles/Libro-Creatividad-SA/)), y porque al leer la contraportada me intrigó mucho su afirmación de que *Odia el tenis*. Un pedazo de libro.
 
-![Axiomático de Greg Egan](http://localhost:4000/images/axiomatico.jpg)
+![Axiomático de Greg Egan]({{ site.url }}/images/axiomatico.jpg)
 
 **[Axiomático](http://www.amazon.es/Axiomatico-Arrakis-Ficcion-Greg-Egan/dp/8415156359/)** de *Greg Egan*. 
 
