@@ -68,7 +68,7 @@ Los efectos del diseño de la oficina en el trabajo, desde el nivel de ruido al 
 
 ![Turnover / Rotación de personal]({{ site.url }}/images/turnover.png)
 
-Los peligrosos efectos de trasladar una oficina, o los costes ocultos en los remplazos de empleados (hay empresas tan acostumbradas que para convivir con la idea lo llaman "entornos alta rotación").
+Los peligrosos efectos de trasladar una oficina, o los costes ocultos en los remplazos de empleados (hay empresas tan acostumbradas que para convivir con la idea lo llaman "entornos de alta rotación").
 
 ## Frases a destacar
 
