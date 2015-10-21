@@ -42,7 +42,7 @@ Y la razón es muy sencilla, si salgo tarde no me da tiempo a mejorar, no me da 
 
 Por consiguiente soy también defensor de jornadas laborales más cortas, y creo que la de seis horas sería suficiente, incluso que no habría mucha diferencia de productividad en nuestro trabajo.
 
-Soy de los que creen los argumentos que dicen que disponiendo de más tiempo se incrementaría el consumo, porque sé que sería mucho más facil poder quedar a tomarte una caña, o para ir al cine.
+Soy de los que creen los argumentos que dicen que disponiendo de más tiempo se incrementaría el consumo, porque sé que sería mucho más fácil poder quedar a tomarte una caña, o para ir al cine.
 
 Aunque no me hago ilusiones, tardaremos mucho tiempo en verlo en España si es que alguna vez llega.
 
