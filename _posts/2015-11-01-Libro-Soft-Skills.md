@@ -53,7 +53,7 @@ La parte que menos me ha gustado es la de finanzas, no coincido con ese objetivo
 Sin embargo no creo que esto le quite valor, hay consejos de todo tipo, así que cualquiera podrá encontrar alguno que venga bien.
 
 <p align="center">
-  <img src='{{ site.url }}/images/schedule.png' alt='Schedule your weekly tasks' />
+  <img src='{{ site.url }}/images/schedule.PNG' alt='Schedule your weekly tasks' />
 </p>
 
 La parte que más me ha gustado probablemente sea la de los temas relacionados con la productividad, la constancia, la atención, la técnica Pomodoro, el trabajo poco a poco, el desarrollo de hábitos...
