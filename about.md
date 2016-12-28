@@ -6,11 +6,11 @@ tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
 modified: 2014-06-24
 ---
 
-Desarrollador de software acogedor pero muy luminoso, en busca de mejora contínua y lleno de propósitos a incumplir.
+Agente del cambio acogedor pero muy luminoso, en busca de mejora contínua y lleno de propósitos a incumplir.
 
 ## En Dev's Kitchen intentaré:
 
-* Demostrarme que soy capaz de mantener un espacio público con periodicidad aleatoria.
+* Mantener un espacio público con periodicidad aleatoria.
 * No frustrarme si no lo consigo.
 * Aprender algo por el camino :)
 
